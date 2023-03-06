@@ -1,6 +1,6 @@
 # STLinATL 2023
 
-Workshop for the [STLinATL](https://stlinatl.com/) conference, March 13-14, 2023.
+Workshops for the [STLinATL](https://stlinatl.com/) conference, March 13-14, 2023.
 
 ## Workshop:  Math and Physics with Video Games
 
