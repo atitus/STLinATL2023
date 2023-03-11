@@ -9,7 +9,7 @@ Workshops for the [STLinATL](https://stlinatl.com/) conference, March 13-14, 202
 A significant component of today’s STEM education is coding. By integrating coding with math and science instruction, students learn to use code to do calculations, solve problems, test ideas, and model complex phenomena. Video games offer a rich context in which students can apply math and physics, integrate coding, and explore “worlds” in a way that taps curiosity and interest. In this workshop, participants:  (1) will use a Google Colab notebook to calculate probabilities for a game; (2) will add a few lines of code to create a lunar lander game (like the old Atari version from 1979); and (3) will analyze the math and physics of Angry Birds.  Many other games and activities that you can “play with” outside the workshop will be provided.
 
 
-## Workhop:  TeachGPT – Connecting Math and Science Learning Activities to AI
+## Workshop:  TeachGPT – Connecting Math and Science Learning Activities to AI
 
 ### Description
 
