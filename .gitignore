@@ -1,0 +1,10 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Compiled files
+__pycache__/*
+
+# OS generated files #
+######################
+.DS_Store
+
